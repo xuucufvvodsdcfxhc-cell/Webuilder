@@ -1,0 +1,6 @@
+{
+  "name": "WebSketch Pro",
+  "description": "منصة تطوير ويب احترافية بالسحب والإفلات والبرمجة المباشرة مع معاينة حية ومساعد ذكاء اصطناعي لتوليد الأكواد والمكونات فورياً",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
